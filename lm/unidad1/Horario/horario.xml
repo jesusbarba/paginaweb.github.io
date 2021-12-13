@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<horario>
+	<dia dia="lunes">
+		<hora>8:30-10:15</hora>
+		<asignatura>Programación</asignatura>
+		<hora>10:15-11:15</hora>
+		<asignatura>Lenguaje de marcas</asignatura>
+		<hora>11:15-11:45</hora>
+		<asignatura>Recreo</asignatura>
+		<hora>11:45-12:45</hora>
+		<asignatura>Lenguaje de marcas</asignatura>
+		<hora>12:45-14:45</hora>
+		<asignatura>Bases de datos</asignatura>
+	</dia>
+	<dia dia="martes">
+		<hora>8:30-9:15</hora>
+		<asignatura>Entornos de desarrollo</asignatura>
+		<hora>9:15-11:15</hora>
+		<asignatura>Sistemas informáticos</asignatura>
+		<hora>11:15-11:45</hora>
+		<asignatura>Recreo</asignatura>
+		<hora>11:45-12:45</hora>
+		<asignatura>Sistemas informáticos</asignatura>
+		<hora>12:45-14:45</hora>
+		<asignatura>Programación</asignatura>
+	</dia>
+	<dia dia="miércoles">
+		<hora>8:30-10:15</hora>
+		<asignatura>Programación</asignatura>
+		<hora>10:15-11:15</hora>
+		<asignatura>Bases de datos</asignatura>
+		<hora>11:15-11:45</hora>
+		<asignatura>Recreo</asignatura>
+		<hora>11:45-12:45</hora>
+		<asignatura>Bases de datos</asignatura>
+		<hora>12:45-14:45</hora>
+		<asignatura>Formación y orientación laboral</asignatura>
+	</dia>
+	<dia dia="jueves">
+		<hora>8:30-10:15</hora>
+		<asignatura>Entornos de desarrollo</asignatura>
+		<hora>10:15-11:15</hora>
+		<asignatura>Sistemas informáticos</asignatura>
+		<hora>11:15-11:45</hora>
+		<asignatura>Recreo</asignatura>
+		<hora>11:45-13:45</hora>
+		<asignatura>Sistemas informáticos</asignatura>
+		<hora>12:45-14:45</hora>
+		<asignatura>Formación y orientación laboral</asignatura>
+	</dia>
+	<dia dia="viernes">
+		<hora>8:30-10:15</hora>
+		<asignatura>Bases de datos</asignatura>
+		<hora>10:15-11:15</hora>
+		<asignatura>Lenguaje de marcas</asignatura>
+		<hora>11:15-11:45</hora>
+		<asignatura>Recreo</asignatura>
+		<hora>11:45-12:45</hora>
+		<asignatura>Lenguaje de marcas</asignatura>
+		<hora>12:45-14:45</hora>
+		<asignatura>Programación</asignatura>
+	</dia>
+</horario>
